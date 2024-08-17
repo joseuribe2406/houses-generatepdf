@@ -1,0 +1,24 @@
+{
+    "date":"2023-05-23",
+    "numeric_unit":"day turn",
+    "manager":"name_manager",
+    "property":[{
+        "numberProperty":"64-3122",
+        "done":"no se que va",
+        "base":4,
+        "ohiki":30,
+        "superstructure":72,
+        "count":106,
+        "total":100
+    },
+    {
+        "numberProperty":"64-3122",
+        "done":"no se que va",
+        "base":4,
+        "ohiki":18,
+        "count":37,
+        "total":143
+    }],
+    "reportPl":1,
+    "total":970
+}

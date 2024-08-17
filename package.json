@@ -1,0 +1,23 @@
+{
+  "name": "project-generate-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "env-cmd nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.16.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "html-pdf-node": "^1.0.8"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "nodemon": "^3.1.3"
+  }
+}
